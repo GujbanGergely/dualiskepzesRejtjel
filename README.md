@@ -1,0 +1,2 @@
+# dualiskepzesRejtjel
+dualiskepzes - algoritmus - rejtjelezes
